@@ -11,7 +11,8 @@ Hello, I am currently a Node.js developer looking for a job, working on multiple
   
 -------------------
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Michal2310&theme=radical&include_all_commits=true&count_private=true"/>
+  
   <img src="https://github-readme-stats.vercel.app/api?username=Michal2310&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Michal2310&theme=radical&include_all_commits=true&count_private=true"/>
 
  <div>
